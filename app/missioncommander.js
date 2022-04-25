@@ -1,5 +1,5 @@
 class MissionCommander {
-    constructor (name, age, colors, team) {
+    constructor (name) {
       this.name = name
     }
   }
