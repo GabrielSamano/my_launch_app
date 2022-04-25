@@ -1,9 +1,6 @@
 class MissionCommander {
     constructor (name, age, colors, team) {
-      this.name = name,
-      this.age = age,
-      this.colors = colors,
-      this.team = team
+      this.name = name
     }
   }
   
